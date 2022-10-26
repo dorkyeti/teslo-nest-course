@@ -1,0 +1,10 @@
+{
+    "material-icon-theme.activeIconPack": "nest",
+    "[typescript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "typescript.preferences.quoteStyle": "single",
+        "editor.foldingStrategy": "auto"
+    },
+    "typescript.preferences.quoteStyle": "single"
+}
